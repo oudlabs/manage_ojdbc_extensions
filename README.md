@@ -184,7 +184,7 @@ AddJavaLibFile C:\Program Files\sqldeveloper\ojdbc-extensions-1.0.5\slf4j-api-2.
 ```
 
 ## Help
-*No official support is provided by this script.*
+*No official support is provided for this script.*
 
 ## Contributing
 *If you have ideas for improvement, submt them to the project.*
