@@ -1,13 +1,10 @@
 # OJDBC Extensions Manager
-
 *Build zip file of requisite ojdbc-extensions for Entra ID integration of JDBC-thin applications.*
 
 ## Installation
-
 *Download the script and run according to the following usage*
 
 ## Documentation
-
 ** Usage: manage_ojdbc_extensions.sh <ojdbc_extensions_versions>**
 
 ## Examples
@@ -187,15 +184,12 @@ AddJavaLibFile C:\Program Files\sqldeveloper\ojdbc-extensions-1.0.5\slf4j-api-2.
 ```
 
 ## Help
-
 *No official support is provided by this script.*
 
 ## Contributing
-
 *If you have ideas for improvement, submt them to the project.*
 
 ## License
-
 *The correct copyright notice format for both documentation and software is*
     "Copyright (c) [year,] year Oracle and/or its affiliates."
 *You must include the year the content was first released (on any platform) and the most recent year in which it was revised*
