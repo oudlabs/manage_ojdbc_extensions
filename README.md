@@ -12,12 +12,16 @@
 
 ## Examples
 *Sample Usage to build ojdbc-extensions version 1.0.5*
+```
 ./manage_ojdbc_extensions.sh 1.0.5
 Step: 1 Download dependencies
 Step: 2 Download ojdbc-extensions
 Step: 3 Make product.conf for SQLDeveloper
 Step: 4 Bundle up the ojdbc-extensions: ojdbc-extensions-1.0.5.zip
 Step: 5 Clean up
+```
+
+```
 $ unzip -l ojdbc-extensions-1.0.5.zip
 Archive:  ojdbc-extensions-1.0.5.zip
   Length      Date    Time    Name
@@ -99,6 +103,9 @@ Archive:  ojdbc-extensions-1.0.5.zip
      7546  07-16-2025 22:42   product.conf
 ---------                     -------
  15996340                     75 files
+```
+
+```
 $ unzip ojdbc-extensions-1.0.5.zip product.conf
 Archive:  ojdbc-extensions-1.0.5.zip
   inflating: product.conf            
@@ -177,7 +184,7 @@ AddJavaLibFile C:\Program Files\sqldeveloper\ojdbc-extensions-1.0.5\reactor-core
 AddJavaLibFile C:\Program Files\sqldeveloper\ojdbc-extensions-1.0.5\reactor-netty-core-1.3.0-M5.jar
 AddJavaLibFile C:\Program Files\sqldeveloper\ojdbc-extensions-1.0.5\reactor-netty-http-1.3.0-M5.jar
 AddJavaLibFile C:\Program Files\sqldeveloper\ojdbc-extensions-1.0.5\slf4j-api-2.1.0-alpha1.jar
-
+```
 
 ## Help
 
