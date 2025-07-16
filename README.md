@@ -5,7 +5,7 @@
 *Download the script and run according to the following usage*
 
 ## Documentation
-** Usage: manage_ojdbc_extensions.sh <ojdbc_extensions_versions>**
+Usage: manage_ojdbc_extensions.sh <ojdbc_extensions_versions>
 
 ## Examples
 *Sample Usage to build ojdbc-extensions version 1.0.5*
